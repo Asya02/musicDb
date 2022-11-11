@@ -1,0 +1,48 @@
+<Playlist>
+Escape
+<Song>
+The Bug Collector
+<Artists>
+Haley Heynderickx
+</Artists>
+2018
+</Song>
+<Song>
+Saving Us a Riot
+<Artists>
+Phoria
+</Artists>
+2016
+</Song>
+<Song>
+Space Song
+<Artists>
+Beach House
+</Artists>
+2015
+</Song>
+</Playlist>
+<Playlist>
+Favorites
+<Song>
+The Bug Collector
+<Artists>
+Haley Heynderickx
+</Artists>
+2018
+</Song>
+<Song>
+Here Comes The Sun
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Phoner To Arizona
+<Artists>
+Gorillaz
+</Artists>
+2011
+</Song>
+</Playlist>

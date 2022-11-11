@@ -1,0 +1,98 @@
+<Album>
+alb
+Rico Nasty
+2020
+1
+<Song>
+Rage
+<Artists>
+Rico Nasty
+</Artists>
+2019
+</Song>
+<Song>
+Tia Tamera
+<Artists>
+Doja Cat
+Rico Nasty
+</Artists>
+2017
+</Song>
+</Album>
+<Album>
+Abbey Road
+The Beatles
+1969
+1
+<Song>
+Come Together
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Something
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Oh! Darling
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Here Comes The Sun
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Because
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Sun King
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+</Album>
+<Album>
+The Fall
+Gorillaz
+2011
+1
+<Song>
+Phoner To Arizona
+<Artists>
+Gorillaz
+</Artists>
+2011
+</Song>
+<Song>
+Revolving Doors
+<Artists>
+Gorillaz
+</Artists>
+2011
+</Song>
+<Song>
+The Joplin spider
+<Artists>
+Gorillaz
+Jamie Hewlett
+Damon Albarn
+</Artists>
+2011
+</Song>
+</Album>

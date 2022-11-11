@@ -1,0 +1,115 @@
+<Song>
+Bi polar
+<Artists>
+Bhad Bhabie
+</Artists>
+2020
+</Song>
+<Song>
+Rage
+<Artists>
+Rico Nasty
+</Artists>
+2019
+</Song>
+<Song>
+Tia Tamera
+<Artists>
+Doja Cat
+Rico Nasty
+</Artists>
+2017
+</Song>
+<Song>
+beilbs in the trap
+<Artists>
+Travis Scott
+</Artists>
+2016
+</Song>
+<Song>
+The Bug Collector
+<Artists>
+Haley Heynderickx
+</Artists>
+2018
+</Song>
+<Song>
+Saving Us a Riot
+<Artists>
+Phoria
+</Artists>
+2016
+</Song>
+<Song>
+Space Song
+<Artists>
+Beach House
+</Artists>
+2015
+</Song>
+<Song>
+Come Together
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Something
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Oh! Darling
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Here Comes The Sun
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Because
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Sun King
+<Artists>
+The Beatles
+</Artists>
+1969
+</Song>
+<Song>
+Phoner To Arizona
+<Artists>
+Gorillaz
+</Artists>
+2011
+</Song>
+<Song>
+Revolving Doors
+<Artists>
+Gorillaz
+</Artists>
+2011
+</Song>
+<Song>
+The Joplin spider
+<Artists>
+Gorillaz
+Jamie Hewlett
+Damon Albarn
+</Artists>
+2011
+</Song>

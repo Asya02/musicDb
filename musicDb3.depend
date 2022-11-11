@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1641831298 source:c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\main.cpp
+	"menu.h"
+
+1642085780 c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\menu.h
+	"playlist.h"
+	"album.h"
+
+1641831337 c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\playlist.h
+	"music.h"
+
+1642085901 c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\music.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<fstream>
+	<typeinfo>
+	<algorithm>
+	<cstring>
+
+1642086277 c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\album.h
+	"music.h"
+
+1642087632 source:c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\menu.cpp
+	"menu.h"
+
+1642086306 source:c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\music.cpp
+	"music.h"
+
+1642086576 source:c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\playlist.cpp
+	"playlist.h"
+
+1642086724 source:c:\users\м-видео\desktop\моя папка\programming cpp\musicdb3\album.cpp
+	"album.h"
+
